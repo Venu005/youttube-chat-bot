@@ -32,7 +32,7 @@ A Chrome extension and backend service that lets you chat with YouTube videos us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/youtube-video-chatbot.git
+git clone https://github.com/Venu005/youttube-chat-bot.git
 cd youtube-video-chatbot
 ```
 
