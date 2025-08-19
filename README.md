@@ -1,8 +1,13 @@
+
+
 # YouTube Video Chatbot
 
 A Chrome extension and backend service that lets you chat with YouTube videos using AI. Ask questions about the content of any YouTube video and get instant answers powered by OpenAI and Pinecone.
 
 ---
+<p align="center">
+  <img src="diagram_yt_chat.png" alt="YouTube Chatbot Architecture Diagram" width="600"/>
+</p>
 
 ## Features
 
